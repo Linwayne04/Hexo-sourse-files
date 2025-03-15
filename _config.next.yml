@@ -585,7 +585,7 @@ pjax: true
 
 # FancyBox is a tool that offers a nice and elegant way to add zooming functionality for images.
 # For more information: https://fancyapps.com/fancybox/
-fancybox: false
+fancybox: true
 
 # Medium Zoom is a JavaScript library for zooming images like Medium.
 # Warning: Do not enable both `fancybox` and `mediumzoom`.
@@ -722,7 +722,7 @@ livere_uid: # <your_uid>
 gitalk:
   enable: true
   github_id: wayneorange04 # GitHub repo owner
-  repo: linwayne.us.kg # Repository name to store issues
+  repo: Hexo-sourse-files # Repository name to store issues
   client_id: Ov23licTos9twkoLhyKq # GitHub Application Client ID
   client_secret: d4be8d506f8248d1b1c5a46c459f7b400096dd69 # GitHub Application Client Secret
   admin_user: wayneorange04 # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
