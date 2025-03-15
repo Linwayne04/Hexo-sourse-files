@@ -166,7 +166,7 @@ social:
   #YouTube: https://youtube.com/yourname || fab fa-youtube
   Instagram: https://instagram.com/linwayne04 || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
-  Bluesky: https://bsky.app/profile/linwayne.us.kg || fa fa-Bluesky
+  Bluesky: https://bsky.app/profile/linwayne.us.kg || fab fa-bluesky
 
 social_icons:
   enable: true
@@ -211,7 +211,7 @@ footer:
   # Icon between year and copyright info.
   icon:
     # Icon name in Font Awesome. See: https://fontawesome.com/icons
-    name: fa fa-brightness
+    name: fa-solid fa-circle-small
     # If you want to animate the icon, set it to true.
     animated: false
     # Change the color of icon, using Hex Code.
