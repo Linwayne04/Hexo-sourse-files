@@ -160,13 +160,13 @@ social:
   #GitHub: https://github.com/yourname || fab fa-github
   E-Mail: mailto:linwayne04.28@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
-  Twitter: https://twitter.com/linwayne04 || fab fa-twitter
+  Twitter: https://twitter.com/Ryouhachisaki || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
-  Instagram: https://instagram.com/linwayne04 || fab fa-instagram
+  Instagram: https://instagram.com/ryouhachisaki || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
-  Bluesky: https://bsky.app/profile/linwayne.us.kg || fab fa-bluesky
+  Bluesky: https://bsky.app/profile/linwayne.dpdns.org || fab fa-bluesky
 
 social_icons:
   enable: true
