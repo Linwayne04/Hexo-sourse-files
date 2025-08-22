@@ -1,6 +1,6 @@
 ---
-title: 〔置頂〕Welcome~
-date: 
+title: 〔置頂〕Welcome！
+date: 2025-08-22 12:00:00
 top: True
 comments: false
 ---
