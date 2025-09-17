@@ -13,7 +13,7 @@ timezone: Asia/Taipei
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://linwayne.dpdns.org
+url: https://blog.linwayne.dpdns.org
 permalink: :title/
 permalink_defaults:
 pretty_urls:
@@ -125,4 +125,5 @@ symbols_count_time:
   awl: 2
   wpm: 275
   suffix: "mins."
+
 
